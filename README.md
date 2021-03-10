@@ -1,0 +1,2 @@
+# react_mobx_demo
+在react中使用mobx的一个小demo
